@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: PracticeProblemOne, Configuration: Debug Any CPU ------
+1>C:\Users\WeCanCodeIT\source\repos\PracticeProblemOne\PracticeProblemOne\Program.cs(13,20,13,28): warning CS0219: The variable 'fullName' is assigned but its value is never used
+1>C:\Users\WeCanCodeIT\source\repos\PracticeProblemOne\PracticeProblemOne\Program.cs(15,20,15,23): warning CS0219: The variable 'car' is assigned but its value is never used
+1>C:\Users\WeCanCodeIT\source\repos\PracticeProblemOne\PracticeProblemOne\Program.cs(17,20,17,24): warning CS0219: The variable 'book' is assigned but its value is never used
+1>  PracticeProblemOne -> C:\Users\WeCanCodeIT\source\repos\PracticeProblemOne\PracticeProblemOne\bin\Debug\PracticeProblemOne.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

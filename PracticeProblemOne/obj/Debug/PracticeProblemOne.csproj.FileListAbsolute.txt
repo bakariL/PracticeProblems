@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\PracticeProblemOne\PracticeProblemOne\bin\Debug\PracticeProblemOne.exe.config
+c:\users\wecancodeit\source\repos\PracticeProblemOne\PracticeProblemOne\bin\Debug\PracticeProblemOne.exe
+c:\users\wecancodeit\source\repos\PracticeProblemOne\PracticeProblemOne\bin\Debug\PracticeProblemOne.pdb
+c:\users\wecancodeit\source\repos\PracticeProblemOne\PracticeProblemOne\obj\Debug\PracticeProblemOne.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\source\repos\PracticeProblemOne\PracticeProblemOne\obj\Debug\PracticeProblemOne.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\PracticeProblemOne\PracticeProblemOne\obj\Debug\PracticeProblemOne.exe
+c:\users\wecancodeit\source\repos\PracticeProblemOne\PracticeProblemOne\obj\Debug\PracticeProblemOne.pdb
